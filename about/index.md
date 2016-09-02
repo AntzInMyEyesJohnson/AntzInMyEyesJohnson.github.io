@@ -10,7 +10,7 @@ comments: false
 #### Description: 
 Valhalla, the final resting place for histories most reknown warriors, has been corrupted. An evil group hellbent on earths destruction has unleashed a twisted horde of the earths strongest warriors on the masses. Who can defend the world from the its own greatest fighters? The Nameless...'
 
-#### The Nameless: 
+#### Who are the 'Nameless'? 
 Legends whose names werent remembered but their skills were.
 
 #### Playable Characters:
