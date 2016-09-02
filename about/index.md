@@ -1,21 +1,16 @@
 ---
 layout: page
-title: About the Theme
-tags: [about, Jekyll, theme, moon]
+title: About the Game
+tags: [about, game, nameless]
 date: 2016-03-21
 comments: false
 ---
-    
-<center><a href="http://antzinmyeyesjohnson.github.io/"><b>The Nameless</b></a> is game.</center>
+## Description: Valhalla, the final resting place for histories most reknown warriors, has been corrupted. An evil group hellbent on earths destruction has unleashed a twisted horde of the earths strongest warriors on the masses. Who can defend the world from the its own greatest fighters? The Nameless...'
 
-## Features
-* Minimal, you can focus on your content
-* Responsive
-* Disqus integration
-* Syntax highlighting
-* Optional post image
-* Social icons
-* Page for sharing projects
-* Optional background image
-* Simple navigation menu
-* MathJax support
+<center><a href="http://antzinmyeyesjohnson.github.io/"><b>The Nameless</b></a>are legends whose names werent remembered but their skills were. But are their skills capable of the beating the strongest in history?</center>
+
+## Characters (The Nameless)
+* The Viking. (influenced from the myth of 'the berserker at the battle of sterling bridge') 
+* The Samurai. (influenced from the myth of 'the man who halted the mighty mongol fleet')
+* The Gunslinger. (influenced from the myth of 'the man with no name')
+* The Knight. (influenced from the myth of 'the black knight')
