@@ -1,6 +1,6 @@
 # Site
 title:              The Nameless
-bio:                'Minimal, one column jekyll theme.'
+bio:                'Valhalla, the final resting place for histories most reknown warriors, has been corrupted. An evil group hellbent on earths destruction has unleashed a twisted horde of the earths strongest warriors on the masses. Who can defend the world from the its own greatest fighters? The Nameless...'
 description:        "Moon is a minimal, one column jekyll theme for your blog."
 reading_time:       true
 words_per_minute:   200
@@ -38,13 +38,14 @@ disqus_shortname:   neighborhoodbaker
   #ad-slot:
 #bing-verify:
 #email:
-twitter:            username
-facebook:           username
+#twitter:            username
+#facebook:           username
 github:             AntzInMyEyesJohnson
+overwatch:          PhillyStrong'#'1730;
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
 #linkedin:          username
 #xing:              username
-instagram:          username
+#instagram:          username
 #lastfm:            username
 #tumblr:            username
 #pinterest:         username
