@@ -151,7 +151,7 @@ body {
         border-color: rgba($color_mercury,0.5) rgba($color_bon_jour,0.5) $color_mischka;
         @include rounded(3px);
         text-decoration: none;
-        background-color: $alabaster;
+        background-color: $color_alabaster;
         color: $color_tuatara;
         @include transition(.75s);
         margin: 2px 5px;
