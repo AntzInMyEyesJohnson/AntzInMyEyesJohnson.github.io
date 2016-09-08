@@ -6,14 +6,15 @@ $white               : #fff;
 $color_gray          : #e8e8e8;
 $red                 : #E6141E;
 $maroon              : #85144b;
-$color_tuatara       : #383838;
-$color_shark         : #282828;
-$color_mischka       : #d0d1d5;
-$color_mercury       : #e5e6e9;
-$color_bon_jour      : #dfe0e4;
-$color_gallery       : #f0f0f0;
-$color_stack         : #8c8b8b;
-$color_alabaster     : #f9f9f9;
+$color_tuatara       : #383838;//lighter black
+$color_shark         : #282828;//darker than above
+$color_gator         : #191919;//darker than above
+$color_mischka       : #d0d1d5;//lighter grey
+$color_mercury       : #e5e6e9;//white lighter than above
+$color_bon_jour      : #dfe0e4;//white darker than above
+$color_gallery       : #f0f0f0;//white lighter than 2 above
+$color_stack         : #8c8b8b;//lighter grey
+$color_alabaster     : #f9f9f9;//white
 $color_tundora       : #444;
 $color_fuscous_gray  : #555;
 $color_alabaster     : #fcfcfc;
@@ -23,7 +24,7 @@ $comp-color 	     : complement(#222);
 
 //button colors
 $success			 : #5cb85c;
-$warning			 : #dd8338;
+$warning			 : #dd8338;#DD8439
 $danger				 : #C64537;
 $info		         : #308cbc;
 
