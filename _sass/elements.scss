@@ -5,10 +5,10 @@
 	border-color: rgba($color_mercury,0.5) rgba($color_bon_jour,0.5) $color_mischka;
 	border-radius: 3px;
 	text-decoration: none;
-	background: $white;
+	background: $color_alabaster;
 	color: $color_shark;
 	&:hover {
-		box-shadow: 0 0 1px 0 rgba($color_shark,0.5);
+		box-shadow: 0 0 1px 0 rgba($color_gator,0.5);
 		color: $red;
 	}
 }
@@ -119,12 +119,12 @@ img {
 }
 .img-circle {
 	border-radius: 50%;
-	border: 3px solid $white;
+	border: 3px solid $color_alabaster;
 	height: 150px;
 	width: 150px;
 }
 .author-photo {
-    background-color: $white;
+    background-color: $color_alabaster;
 }
 .image-right {
     float: right;
