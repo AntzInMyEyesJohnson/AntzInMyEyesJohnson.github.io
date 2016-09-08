@@ -21,7 +21,7 @@ body {
 	background-attachment: fixed;
 	@media #{$small} {
 	    background-image: none !important;
-		background: $white;
+		background: $warning;
 	}
 }
 * {
@@ -104,7 +104,7 @@ body {
 	width: 75%;
 	max-width: 850px;
 	margin: 4rem auto;
-	background: $warning;
+	background: $containercolor;
 	color: $color_tuatara;
 	padding: 2em;
 	border-radius: 3px;
@@ -151,7 +151,7 @@ body {
         border-color: rgba($color_mercury,0.5) rgba($color_bon_jour,0.5) $color_mischka;
         @include rounded(3px);
         text-decoration: none;
-        background-color: $white;
+        background-color: $warning;
         color: $color_tuatara;
         @include transition(.75s);
         margin: 2px 5px;
