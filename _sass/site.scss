@@ -15,7 +15,7 @@ body {
 	@extend %extend1;
 	font-family: $font1;
 	@include font-rem($doc-font-size);
-	color: $color_tuatara;
+	color: $color_shark;
 	background-color: $bodycolor;
 	background-position: center center;
 	background-attachment: fixed;
@@ -39,7 +39,7 @@ body {
 	width: 100%;
 	min-height: 300px;
 	text-align: left;
-	color: $white;
+	color: $color_alabaster;
 	@media #{$small} {
 		display: block !important;
 	}
@@ -79,7 +79,7 @@ body {
 	color: $color_shark;
 	z-index: 1;
 	border-radius: 3px;
-	box-shadow: 0 0 10px 0 rgba($color_shark,0.3);
+	box-shadow: 0 0 10px 0 rgba($color_gator,0.3);
 	@include transition(.5s);
 	@media #{$small} {
 		width: 100%;
@@ -105,10 +105,10 @@ body {
 	max-width: 850px;
 	margin: 4rem auto;
 	background: $containercolor;
-	color: $color_tuatara;
+	color: $color_shark;
 	padding: 2em;
 	border-radius: 3px;
-	box-shadow: 0 0 10px 0 rgba($color_shark,0.3);
+	box-shadow: 0 0 10px 0 rgba($color_gator,0.3);
 	@include transition(.5s);
 	@media #{$small} {
 		width: 90%;
@@ -124,7 +124,7 @@ body {
 	color: $color_tuatara;
 	padding: 2em;
 	border-radius: 3px;
-	box-shadow: 0 0 10px 0 rgba($color_shark,0.3);
+	box-shadow: 0 0 10px 0 rgba($color_gator,0.3);
 	@include transition(.5s);
 	@media #{$small} {
 		width: 90%;
@@ -165,7 +165,7 @@ body {
 		}
 		&:hover {
 			background-color: darken($white,15);
-			box-shadow: 0 0 1px 0 rgba($color_shark,0.5);
+			box-shadow: 0 0 1px 0 rgba($color_gator,0.5);
 		}
 	}
 }
